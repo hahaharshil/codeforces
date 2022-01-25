@@ -1,5 +1,5 @@
+//139673603	Dec/18/2021 00:10UTC+5.5	hahaharshilpp	A - Vanya and Fence	GNU C++20 (64)	Accepted	15 ms	0 KB
 // source: https://codeforces.com/contest/677/problem/A
-// Date: 17 dec 2021
 
 #include <bits/stdc++.h>
 

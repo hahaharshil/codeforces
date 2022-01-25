@@ -1,3 +1,4 @@
+//142176747	Jan/10/2022 18:02UTC+5.5	hahaharshilpp	A - Magnets	GNU C++20 (64)	Accepted	156 ms	0 KB
 //https://codeforces.com/contest/344/problem/A
 
 #include "bits/stdc++.h"

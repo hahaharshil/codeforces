@@ -1,3 +1,7 @@
+//139548066	Dec/16/2021 21:06UTC+5.5	hahaharshilpp	A - Way Too Long Words	GNU C++20 (64)	Accepted	15 ms	0 KB
+//https://codeforces.com/contest/71/problem/A
+
+
 #include <bits/stdc++.h>
 
 using namespace std;

@@ -1,5 +1,6 @@
-// If size is odd then male
-// else female
+//142168434	Jan/10/2022 16:31UTC+5.5	hahaharshilpp	A - Boy or Girl	GNU C++20 (64)	Accepted	30 ms	0 KB
+//https://codeforces.com/contest/236/problem/A
+
 
 #include <bits/stdc++.h>
 

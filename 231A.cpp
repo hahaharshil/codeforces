@@ -1,3 +1,6 @@
+//139548814	Dec/16/2021 21:21UTC+5.5	hahaharshilpp	A - Team	GNU C++20 (64)	Accepted	30 ms	0 KB
+//https://codeforces.com/contest/231/problem/A
+
 #include <bits/stdc++.h>
 
 using namespace std;

@@ -1,3 +1,6 @@
+#139675211	Dec/18/2021 00:28UTC+5.5	hahaharshilpp	A - Anton and Danik	Python 3	Accepted	62 ms	100 KB
+#https://codeforces.com/contest/734/problem/A
+
 n = int(input())
 main = input()
 i = 0
@@ -17,6 +20,3 @@ elif AntonScore == DanikScore:
     print("Friendship")
 else:
     print("Anton")
-
-
-

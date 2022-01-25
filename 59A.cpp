@@ -1,7 +1,5 @@
+//142171376	Jan/10/2022 17:03UTC+5.5	hahaharshilpp	A - Word	GNU C++20 (64)	Accepted	30 ms	0 KB
 //https://codeforces.com/contest/59/problem/A
-//lowercase to upper if lovercase letters are more and vise versa
-//if both are equal then convert to lower
-
 
 #include <bits/stdc++.h>
 using namespace std;

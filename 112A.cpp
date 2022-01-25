@@ -1,3 +1,6 @@
+//139886553	Dec/19/2021 17:17UTC+5.5	hahaharshilpp	A - Petya and Strings	GNU C++20 (64)	Accepted	30 ms	0 KB
+//https://codeforces.com/contest/112/problem/A
+
 #include <bits/stdc++.h>
 
 using namespace std;
