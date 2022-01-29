@@ -3,13 +3,9 @@
 using namespace std;
 
 int main(){
-	string s = "12";
-	int n = 2;
+	string s = "Aarshil";
+	s[0] = 'H';
 
-	for(int i = 0; i < n; i++){
-		if(s[i] == '1'){
-			cout << "yes" << endl;
-		}	
-	}	
+	cout << s << endl;
 	return 0;
 }
