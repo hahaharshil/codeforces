@@ -1,1 +1,1 @@
-Here are the questions I have sloved on codeforces.
+Here are the questions I have managed to solve on codeforces. :`/
