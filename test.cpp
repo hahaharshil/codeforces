@@ -1,11 +1,18 @@
-#include <bits/stdc++.h>
+#inlcude <bits/stdc++.h>
 
 using namespace std;
 
-int main(){
-	string s = "Aarshil";
-	s[0] = 'H';
+void gcd(a,b) {
+	while(i <= a){
+		if(a%i == 0 && b%i == 0){
+			return True;
+		}else{
+			i--
+		}
+	}
+}
 
-	cout << s << endl;
-	return 0;
+int main(){
+	boolean x = gcd(6,24);
+	cout << x << endl;
 }
